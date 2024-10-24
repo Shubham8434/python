@@ -1,0 +1,45 @@
+2024-10-05 13:17:42,238 - INFO - New user registered: shubham@gmail.com
+2024-10-05 13:17:42,245 - INFO - User shubham@gmail.com registered successfully.
+2024-10-05 13:18:09,517 - WARNING - Incorrect password for shubham@gmail.com.
+2024-10-05 13:18:09,518 - WARNING - Login attempts remaining for shubham@gmail.com: 4
+2024-10-05 13:18:22,869 - WARNING - Incorrect password for shubham@gmail.com.
+2024-10-05 13:18:22,869 - WARNING - Login attempts remaining for shubham@gmail.com: 3
+2024-10-05 13:18:39,821 - WARNING - Incorrect password for shubham@gmail.com.
+2024-10-05 13:18:39,823 - WARNING - Login attempts remaining for shubham@gmail.com: 2
+2024-10-05 13:20:00,449 - INFO - New user registered: suraj@gmail.com
+2024-10-05 13:20:00,450 - INFO - User suraj@gmail.com registered successfully.
+2024-10-05 13:20:21,311 - INFO - User suraj@gmail.com logged in successfully.
+2024-10-05 13:21:15,148 - INFO - User suraj@gmail.com logged in successfully.
+2024-10-05 13:24:21,175 - INFO - New user registered: suraj@gmail.com
+2024-10-05 13:24:21,176 - INFO - User suraj@gmail.com registered successfully.
+2024-10-05 13:24:35,799 - INFO - User suraj@gmail.com logged in successfully.
+2024-10-05 13:29:21,566 - INFO - New user registered: aman@gmail.com
+2024-10-05 13:29:21,568 - INFO - User registration completed successfully.
+2024-10-05 13:29:30,752 - INFO - User logged in: aman@gmail.com
+2024-10-05 13:29:38,345 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=GTA-5&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:29:58,482 - INFO - User logged in: aman@gmail.com
+2024-10-05 13:30:05,994 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=GTA%20V&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:32:52,528 - WARNING - Invalid menu option selected.
+2024-10-05 13:33:20,383 - INFO - New user registered: amit@gmail.com
+2024-10-05 13:33:20,384 - INFO - User registration completed successfully.
+2024-10-05 13:33:29,132 - INFO - User logged in: amit@gmail.com
+2024-10-05 13:33:34,248 - ERROR - Exception during store name retrieval: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/stores (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:33:34,347 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=GTA%205&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:33:54,832 - INFO - User logged in: amit@gmail.com
+2024-10-05 13:34:00,492 - ERROR - Exception during store name retrieval: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/stores (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:34:00,671 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=GTA-V&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:35:36,164 - INFO - New user registered: radha@gmail.com
+2024-10-05 13:35:36,164 - INFO - User registration completed successfully.
+2024-10-05 13:35:46,780 - INFO - User logged in: radha@gmail.com
+2024-10-05 13:35:54,673 - ERROR - Exception during store name retrieval: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/stores (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:35:55,052 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=GTA-%205&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:41:43,818 - INFO - New user registered: Shubham@gmail.com
+2024-10-05 13:41:43,820 - INFO - User registration completed successfully.
+2024-10-05 13:41:54,752 - INFO - User logged in: Shubham@gmail.com
+2024-10-05 13:42:02,522 - ERROR - Exception during store name retrieval: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/stores (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:42:02,672 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=bgmi&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:51:06,466 - INFO - New user registered: raja@gmail.com
+2024-10-05 13:51:06,466 - INFO - User registration completed successfully.
+2024-10-05 13:51:14,814 - INFO - User logged in: raja@gmail.com
+2024-10-05 13:51:18,977 - ERROR - Exception during store name retrieval: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/stores (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2024-10-05 13:51:19,245 - ERROR - Error during API request for game search: HTTPSConnectionPool(host='www.cheapshark.com', port=443): Max retries exceeded with url: /api/1.0/deals?title=bgmi&sortBy=Deal%20Rating (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
